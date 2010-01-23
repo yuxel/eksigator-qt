@@ -1,1 +1,13 @@
 C++ client to Eksigator usign Qt libraries
+
+-----------
+INSTALLATION
+-----------
+type "qmake && make" in directory and enjoy ./eksigator
+
+------------
+TODO
+------------
+Translator and multilanguage support
+QTableWidgetItem flush issue
+
